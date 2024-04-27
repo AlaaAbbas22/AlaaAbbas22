@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on chatbots.
+- 🌱 I was learning, am currently learning, and will always be learning something new (and fancy). 
 <!--
 **AlaaAbbas22/AlaaAbbas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
