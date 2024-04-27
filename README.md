@@ -1,9 +1,10 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
+<br><br></div>
+
 <h1 align="center">Hi 👋, I'm Alaa (or LOL)</h1>
 <h3 align="center">I wake up, study, code, sleep, and repeat.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlaaAbbas22&label=Profile%20views&color=0e75b6&style=flat" alt="AlaaAbbas22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlaaAbbas22&theme=" alt="AlaaAbbas22" /></a> </p>
 
 - 🔭 I’m currently working on **a chatbot.**
 - 💬 Ask me about **Web Development or CAF Champions League.**
