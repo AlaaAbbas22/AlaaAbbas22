@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **a chatbot.**
 - 💬 Ask me about **Web Development or CAF Champions League.**
 - 📫 How to reach me **alaa@uni.minerva.edu**
-- 👨‍💻 All of my projects are available at **https://aabbas.co/**
+- 👨‍💻 All of my projects are available at **https://aabbas.info/**
 - 📄 Know about my experiences **https://docs.google.com/document/u/1/d/1DuUhCb6W5Kr-n75o75giRKMwQFA9zPicXv4AcTyma2o/**
 - ⚡ Fun fact **I think I am funny.**
 
